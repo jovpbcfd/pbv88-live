@@ -8,7 +8,7 @@ export default function Home() {
         <div className="flex items-center justify-center mb-5 md:mb-10">
           <iframe
           className="rounded-xl border-4 border-[#e67008] shadow-xl"
-          src="https://player.twitch.tv/?channel=aha_man_ko&parent=localhost&parent=pb-npldg.vercel.app"
+          src="https://player.twitch.tv/?channel=aha_man_ko&parent=localhost&parent=pbv88-live.vercel.app"
           allowFullScreen={true}
           height="378"
           width="820">
