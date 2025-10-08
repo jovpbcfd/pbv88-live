@@ -3,8 +3,8 @@ import Link from "next/link";
 
 export default function Header() {
   return (
-    <header className={`bg-[#400000] transition-all duration-300 ease-in-out`}>
-      <div className={`bg-[linear-gradient(180deg,#400000_0%,#7c0000_100%)]  transition-shadow duration-300 shadow-lg`}>
+    <header className={`bg-[#00000099] transition-all duration-300 ease-in-out`}>
+      <div className={`bg-[linear-gradient(180deg,#2b2b2b_0%,#2b2b2b_100%)]  transition-shadow duration-300 shadow-lg`}>
         <div className="w-full max-w-[1230px] mx-auto text-white">
           <div className="flex flex-col justify-between items-center px-2 py-4 md:flex-row md:py-4 md:px-[22px]">
             <div>
@@ -32,7 +32,7 @@ export default function Header() {
               </Link> */}
               <Link
                 href="#"
-                className="bg-[linear-gradient(180deg,#fce300_0%,#e09900_100%)] px-4 py-2 rounded-full shadow-md text-center
+                className="bg-[linear-gradient(180deg,#e67008_0%,#e09900_100%)] px-4 py-2 rounded-full shadow-md text-center
                             transition-transform transform hover:scale-105 duration-300 w-full
                             md:w-[150px]
                             flex items-center justify-center

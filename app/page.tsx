@@ -4,10 +4,10 @@
 export default function Home() {
   return (
     <>
-      <div className="max-w-[1230px] mx-auto mt-10 md:bg-[#3f0101] rounded-md md:py-10 md:px-5">
+      <div className="max-w-[1230px] mx-auto mt-10 md:bg-[#2b2b2b] rounded-md md:py-10 md:px-5">
         <div className="flex items-center justify-center mb-5 md:mb-10">
           <iframe
-          className="rounded-xl border-4 border-[#a16207] shadow-xl"
+          className="rounded-xl border-4 border-[#e67008] shadow-xl"
           src="https://player.twitch.tv/?channel=aha_man_ko&parent=localhost&parent=pb-npldg.vercel.app"
           allowFullScreen={true}
           height="378"
